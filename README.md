@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gqia189/Gqia189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Welcome to my GitHub page👋
+
+I am currently pursuing a PhD in Management Science and Engineering at Stanford University working with Professor Margaret Brandeau. 
+
+My research focuses on the development of applied mathematical, economic models, and machine learning models to support health policy decisions. My recent work has been focused on HIV prevention and treatment programs, programs to control US opioid epidemic, and policies for minimizing spread of infectious diseases (including COVID-19).
+
+I am passionate about using optimization theory and machine learning to implement scalable solutions in solving complex, real-world problems including but not limited to applications in healthcare.
+
+You can read my CV [here](https://gqia189.github.io/files/cv.pdf).
